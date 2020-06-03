@@ -4,17 +4,13 @@ Deep Multi-patch Network with Channel Attention
 **Requires** <br>
     ```
     pytorch-0.4.1 
-    ```
     
-    ```
+    
     numpy 
-    ```
-    
-    ```
+   
     scipy 
-    ```
     
-    ```
+    
     scikit-image 
     ```
     
