@@ -1,6 +1,9 @@
 Deep Multi-patch Network with Channel Attention
 =====
 
+Deep end-to-end trainable Underwater Image Enhancement algorithms
+--------
+
 **Requires** 
 ------
 
