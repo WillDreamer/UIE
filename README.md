@@ -9,9 +9,11 @@ Deep Multi-patch Network with Channel Attention
     ```
     numpy 
     ```
+    
     ```
     scipy 
     ```
+    
     ```
     scikit-image 
     ```
@@ -21,6 +23,6 @@ Deep Multi-patch Network with Channel Attention
     python xxx.py 
     
 **model testing, copy test samples into './test_samples', then run following commands.**<br>
-    ```python
+    ```
     python xxx_test.py
     ```
